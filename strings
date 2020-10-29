@@ -19,3 +19,6 @@ function lengthOfLongestSubstring(s){
 }
 
 module.exports = lengthOfLongestSubstring;
+
+
+longest Palindromic substring
